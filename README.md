@@ -5,8 +5,7 @@
 
 
 <br>
-I implemented a Natural Language Processing based project. The project is Movies Reviews Sentiment Analysis who classify that the given review about the movie is a positive review or a negative review. So i train my model on the movies reviews dataset and use that model for implement end to end application. End-to-end means i deployed this model using the Python Framework flask on the localhost. And also deploy on the heroku. So i use a naive-bayes algorithm to train my model, this is probability based algorithm.
-
+In this project, we aim to use Sentiment Analysis on a set of movie reviews given	by reviewers and try to understand what their overall reaction to the movie was, i.e. if they liked the movie or they hated it. We aim to utilize the relationships of  the words in the review to predict the overall polarity of the review. 
 <br>
 <h1> Working of Movies Reviews Classifier</h1>
 <br>
